@@ -125,3 +125,6 @@ dmypy.json
 
 # IDEA files
 .idea
+
+# Downloaded files
+.files
